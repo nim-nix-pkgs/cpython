@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cpython",
   "refs": [
-    "refs/heads/nim",
+    "fatal: unable to access 'https://github.com/juancarlospaco/cpython/': SSL connection timeout",
     ""
   ],
   "heads": []
