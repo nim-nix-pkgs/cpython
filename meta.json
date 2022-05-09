@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cpython",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/cpython/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/juancarlospaco/cpython/': OpenSSL SSL_read: Network is unreachable, errno 101",
     ""
   ],
   "heads": []
